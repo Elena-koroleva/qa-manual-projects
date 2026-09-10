@@ -47,5 +47,4 @@
 ### 📂 Ссылки на артефакты проекта
 > 📌 *Итоговые тест-кейсы и баг-репорты находятся по ссылке ниже:*
 
-* [🔗 Ссылка на Google Таблицу]([https://link-to-your-google-sheet.com](https://docs.google.com/spreadsheets/d/1vea_St9mo1fGtoTgkrPEArGkh3sX0g8uFQ-E9450XOM/edit?usp=sharing)) 
-
+* [🔗 Ссылка на Google Таблицу](https://docs.google.com/spreadsheets/d/1vea_St9mo1fGtoTgkrPEArGkh3sX0g8uFQ-E9450XOM/edit?usp=sharing)
